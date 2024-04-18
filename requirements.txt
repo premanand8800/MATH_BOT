@@ -1,0 +1,10 @@
+langchain-groq
+langchain
+langchain_community
+chainlit
+nbconvert
+python-dotenv
+numexpr
+wikipedia
+groq
+
